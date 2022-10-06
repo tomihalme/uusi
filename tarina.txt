@@ -1,4 +1,4 @@
 eka rivi, eka rivi
 toka rivi
-kolmas rivi
+kolmas rivi, kolmas rivi
 
